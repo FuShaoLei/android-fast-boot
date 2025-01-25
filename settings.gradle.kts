@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android-fast-boot"
 include(":app")
- 
+include(":app:base")
